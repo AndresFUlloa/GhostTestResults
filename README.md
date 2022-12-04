@@ -1,5 +1,7 @@
 # GhostTestResults
 
+Para la ejecución de las pruebas de Cypress se utilizo la versión 10.11.0
+
 PASOS PARA EJECUTAR LAS PRUEBAS
 
 1. Clone el repositorio de la entrega.
