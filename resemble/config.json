@@ -1,0 +1,41 @@
+{
+  "options": {
+    "output": {
+      "errorColor": {
+        "red": 255,
+        "green": 0,
+        "blue": 255
+      },
+      "errorType": "movement",
+      "largeImageThreshold": 1200,
+      "useCrossOrigin": false,
+      "outputDiff": true
+    },
+    "scaleToSameSize": true,
+    "ignore": "antialiasing"
+  },
+  "krakenFolders": [
+    [
+      "Create_Page_-_Crear_Page",
+      "V4-44_Create_Page_-_Crear_Page"
+    ],
+    [
+      "Create_Post_-_Crear_Post",
+      "V4-44_Create_Post_-_Crear_Post"
+    ],
+    [
+      "Create_Tag_-_Crear_Tag",
+      "V4-44_Create_Tag_-_Crear_Tag"
+    ],
+    [
+      "See_profile_-_ver_perfil",
+      "V4-44_See_profile_-_ver_perfil"
+    ],
+    [
+      "Send_Staff_Invitation_-_Enviar_invitacion_de_Staff",
+      "V4-44_Send_Staff_Invitation_-_Enviar_invitacion_de_Staff"
+    ],
+    ["See_about_ghost_-_ver_sobre_ghost", "V4-44_See_about_ghost_-_ver_sobre_ghost"]
+  ],
+  "krakenPath": "../kraken/screenshots/"
+}
